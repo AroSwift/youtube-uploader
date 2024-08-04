@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+src/youtube_uploader_selenium.egg-info/PKG-INFO
+src/youtube_uploader_selenium.egg-info/SOURCES.txt
+src/youtube_uploader_selenium.egg-info/dependency_links.txt
+src/youtube_uploader_selenium.egg-info/top_level.txt
